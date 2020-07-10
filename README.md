@@ -15,7 +15,7 @@
 ```go
 package main
 
-func init() {
+func main() {
   panic("just about everything")
 }
 ```
