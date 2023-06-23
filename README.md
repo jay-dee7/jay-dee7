@@ -12,14 +12,14 @@ I'm super excited for all things eBPF, the Linux Kernel, projects like Firecrack
 ## Goals For 2023
 
 - [x] This is the year of the 🦀
-- [ ] Contribute to more open source projects
+- [ ] Contribute to more open source projects [⚙️]
 - [ ] Nail Distributed Systems
 - [ ] Learn eBPF
 - [ ] Read More Books
-  - [ ] The Rust Programming Language
-  - [ ] Rust For Rustaceans
+  - [x] The Rust Programming Language
+  - [ ] Rust For Rustaceans [⚙️]
   - [ ] Rust Atomics and Locks
-  - [ ] Learning eBPF
+  - [ ] Learning eBPF [⚙️]
   - [ ] Finish Linux Programming Interface
 
 
