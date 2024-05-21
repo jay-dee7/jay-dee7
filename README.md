@@ -9,7 +9,7 @@ I'm super excited for all things eBPF, the Linux Kernel, projects like Firecrack
 - [![Twitter](https://img.shields.io/twitter/follow/_jsdp?style=social)](https://twitter.com/_jsdp)
 - [![Mastodon](https://img.shields.io/mastodon/follow/109295563451920140?domain=https%3A%2F%2Fhachyderm.io&style=social)](https://img.shields.io/mastodon/follow/109295563451920140?domain=https%3A%2F%2Fhachyderm.io&style=social)
 
-## Goals For 2023
+## Goals For 2024
 
 - [x] This is the year of the 🦀
 - [ ] Contribute to more open source projects [⚙️]
@@ -17,7 +17,7 @@ I'm super excited for all things eBPF, the Linux Kernel, projects like Firecrack
 - [ ] Learn eBPF
 - [ ] Read More Books
   - [x] The Rust Programming Language
-  - [ ] Rust For Rustaceans [⚙️]
+  - [x] Rust For Rustaceans
   - [ ] Rust Atomics and Locks
   - [ ] Learning eBPF [⚙️]
   - [ ] Finish Linux Programming Interface
